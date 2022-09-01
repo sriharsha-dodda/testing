@@ -16,3 +16,5 @@ str="this is what happens when you keep some new things in different branch"
 print(str)
 
 print("trying out feature 11")
+
+print("ok, this is something unexpected for the try1 after we did merge")
