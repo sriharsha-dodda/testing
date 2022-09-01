@@ -11,10 +11,12 @@ lis3 = ["a", "b", "c", "d"]
 for x in lis3:
     print(x, end=":")
 
-
-print("dummy2")
+print()
+str="this is what happens when you keep some new things in different branch"
+print(str)
 
 
 print("Adding feature 1 to main")
 
 print("Adding feature 2 to main")
+print("trying out feature 11")
