@@ -21,3 +21,7 @@ print("Adding feature 1 to main")
 
 print("Adding feature 2 to main")
 print("ok, this is something unexpected for the try1 after we did merge")
+print("trying out feature 11")
+
+
+print("new feature after the merge for main")
