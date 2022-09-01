@@ -11,6 +11,7 @@ lis3 = ["a", "b", "c", "d"]
 for x in lis3:
     print(x, end=":")
 
+
 def triangle(n):
 	k = n - 1
 	for i in range(0, n):
@@ -22,3 +23,14 @@ def triangle(n):
 		print("\r")
 n = 5
 triangle(n)
+
+
+def contnum(n):
+	num = 1
+	for i in range(0, n):
+		for j in range(0, i+1):
+			print(num, end=" ")
+			num = num + 1
+		print("\r")
+n = 5
+contnum(n)
