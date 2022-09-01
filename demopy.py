@@ -6,3 +6,7 @@ for i in lis:
 lis2 = ["abcd", "efgh", "ijkl", "mnop"]
 for j in lis2:
     print(j, end=":")
+
+lis3 = ["a", "b", "c", "d"]
+for x in lis3:
+    print(x, end=":")
