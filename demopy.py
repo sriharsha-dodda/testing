@@ -5,6 +5,7 @@ for i in lis:
 
 lis2 = ["abcd", "efgh", "ijkl", "mnop"]
 for j in lis2:
+<<<<<<< HEAD
     print(j, end=":")
 
 lis3 = ["a", "b", "c", "d"]
@@ -34,3 +35,6 @@ def contnum(n):
 		print("\r")
 n = 5
 contnum(n)
+=======
+    print(j, end=":")
+>>>>>>> parent of 98888f8 (added new alphabets)
