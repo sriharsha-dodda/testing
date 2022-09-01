@@ -35,6 +35,4 @@ def contnum(n):
 		print("\r")
 n = 5
 contnum(n)
-=======
-    print(j, end=":")
->>>>>>> parent of 98888f8 (added new alphabets)
+
