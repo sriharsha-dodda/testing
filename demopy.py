@@ -16,10 +16,3 @@ str="this is what happens when you keep some new things in different branch"
 print(str)
 
 
-print("Adding feature 1 to main")
-
-print("Adding feature 2 to main")
-print("trying out feature 11")
-
-
-print("new feature after the merge for main")
